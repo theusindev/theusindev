@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/theusindev/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
   <a href = "mailto:contatotheusindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  
-  ![Snake animattion](https://github.com/theusindev/theusindev/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
