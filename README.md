@@ -1,5 +1,6 @@
 
 ## Bem-vindo(a) ao perfil do Dev Theusin 😁
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=welcome+visitors" alt="Typing SVG" /></a>
 
  <div>
    <a href="https://github.com/theusindev">
