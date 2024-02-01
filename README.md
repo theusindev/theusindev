@@ -9,9 +9,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusindev&layout=compact&langs_count=6&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api?username=21Johnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=21Johnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=21johnn&layout=compact&langs_count=7&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=theusindev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theusindev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusindev&layout=compact&langs_count=7&theme=dracula)
 
 </div>
 
